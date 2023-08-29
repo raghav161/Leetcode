@@ -1,0 +1,32 @@
+class Solution {
+public:
+    bool func(int i, int jumps, vector<int> &stones, vector<vector<int>> &dp){
+        if(i==stones.size()-1)
+            return 1;
+        if(i>=stones.size())
+            return 0;
+        if(dp[i][jumps] != -1)
+            return dp[i][jumps];
+        bool ans=0;
+        for(int t=-1;t<=1;t++)
+        {
+            if(jumps+t)
+            {
+                int g=lower_bound(stones.begin(), stones.end(), stones[i]+jumps+t)-stones.begin();
+                if(g==stones.size() || stones[g]!=stones[i]+jumps+t)
+                    continue;
+                ans = func(g, jumps+t, stones, dp) || ans;
+            }
+        }
+        return dp[i][jumps] = ans;
+    }
+    bool canCross(vector<int>& stones) 
+    {
+        if(stones[1]-stones[0]>1)
+            return 0;
+        if(stones.size()==2)
+            return (stones[1]-stones[0]==1);
+        vector<vector<int>> dp(stones.size()+1, vector<int>(stones.size()+1, -1));
+        return func(0, 0, stones, dp);
+    }
+};
