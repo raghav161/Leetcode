@@ -1,0 +1,31 @@
+class Solution {
+public:
+    int solve(string s, unordered_map<string, int>& mp, vector<int>& dp, int index)
+    {
+        if(index >= s.size()) 
+            return 0;
+        if(dp[index] != -1) 
+            return dp[index];
+        string temp = "";
+        int mn = s.size();
+        for(int i = index; i < s.size(); i++)
+        {
+            temp.push_back(s[i]);
+            int currDeleted=0;
+            if(mp.count(temp)==0)
+                currDeleted = temp.size();
+            int nextDeleted = solve(s, mp, dp, i + 1);
+            int totalDeleted = currDeleted + nextDeleted;
+            mn = min(mn, totalDeleted);
+        }
+        return dp[index] = mn;
+    }
+    int minExtraChar(string s, vector<string>& dictionary) 
+    {
+        vector<int> dp(s.size(), -1);
+        unordered_map<string, int> mp;
+        for(auto word:dictionary) 
+            mp[word]++;
+        return solve(s, mp, dp, 0);
+    }
+};
