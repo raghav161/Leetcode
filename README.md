@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/raghav161/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/raghav161/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Graph
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/raghav161/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Topological Sort
 |  |
 | ------- |
@@ -88,8 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 <!---LeetCode Topics End-->
