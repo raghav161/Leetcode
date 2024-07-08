@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
+| [1078-remove-outermost-parentheses](https://github.com/raghav161/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/raghav161/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/raghav161/Leetcode/tree/master/2645-pass-the-pillow) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/raghav161/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
