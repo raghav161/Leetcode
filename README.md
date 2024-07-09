@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [1293-three-consecutive-odds](https://github.com/raghav161/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1803-average-waiting-time](https://github.com/raghav161/Leetcode/tree/master/1803-average-waiting-time) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2176-parallel-courses-iii](https://github.com/raghav161/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/raghav161/Leetcode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/raghav161/Leetcode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raghav161/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/raghav161/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
