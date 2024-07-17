@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/raghav161/Leetcode/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/raghav161/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0741-cherry-pickup](https://github.com/raghav161/Leetcode/tree/master/0741-cherry-pickup) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
@@ -179,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghav161/Leetcode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
 | [1642-water-bottles](https://github.com/raghav161/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/raghav161/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
