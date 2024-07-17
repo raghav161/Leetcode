@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/raghav161/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/raghav161/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/raghav161/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/raghav161/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Number Theory
 |  |
