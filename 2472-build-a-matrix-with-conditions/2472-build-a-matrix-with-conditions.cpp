@@ -24,12 +24,16 @@ public:
         vector<int> order2 = f(colConditions, k);
         if (order1.size() < k || order2.size() < k)
             return {};
-        unordered_map<int, int> m;
-        for (int i = 0; i < k; i++) 
-            m[order2[i]] = i;
+        
         vector<vector<int>> ans(k, vector<int>(k));
         for (int i = 0; i < k; i++)
-            ans[i][m[order1[i]]] = order1[i];
+        {
+            for(int j=0;j<k;j++)
+            {
+                if(order1[i]==order2[j])
+                    ans[i][j]=order1[i];
+            }
+        }
         return ans;
     }
 };
