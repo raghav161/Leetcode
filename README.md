@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/raghav161/Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/raghav161/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0741-cherry-pickup](https://github.com/raghav161/Leetcode/tree/master/0741-cherry-pickup) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav161/Leetcode/tree/master/0013-roman-to-integer) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/raghav161/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
