@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/raghav161/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
