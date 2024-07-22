@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/raghav161/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/raghav161/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/raghav161/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/raghav161/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/raghav161/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/raghav161/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
