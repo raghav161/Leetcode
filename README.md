@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav161/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/raghav161/Leetcode/tree/master/0036-valid-sudoku) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/raghav161/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/raghav161/Leetcode/tree/master/0013-roman-to-integer) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
+| [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/raghav161/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
