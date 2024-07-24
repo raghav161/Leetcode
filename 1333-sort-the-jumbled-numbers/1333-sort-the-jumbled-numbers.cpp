@@ -26,14 +26,11 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             int newval=f(nums[i], mapping);
-            cout<<newval<<endl;
             ans.push_back({i, {nums[i], newval}});
         }
         sort(ans.begin(), ans.end(), cmp);
         for(int i=0;i<ans.size();i++)
-        {
             nums[i]=ans[i].second.first;
-        }
         return nums;
     }
 };
