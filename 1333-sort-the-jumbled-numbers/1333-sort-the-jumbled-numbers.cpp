@@ -1,10 +1,10 @@
 class Solution {
 public:
-    static bool cmp(pair<int, pair<int, int>>& a, pair<int, pair<int, int>>& b)
+    static bool cmp(pair<int, int>& a, pair<int, int>& b)
     {
-        if(a.second.second==b.second.second)
+        if(a.second==b.second)
             return a.first<b.first;
-        return a.second.second<b.second.second;
+        return a.second<b.second;
     }
     int f(int val, vector<int>& mapping)
     {
@@ -22,15 +22,16 @@ public:
         return ans;
     }
     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
-        vector<pair<int, pair<int, int>>> ans;
+        vector<pair<int, int>> ans;
         for(int i=0;i<nums.size();i++)
         {
             int newval=f(nums[i], mapping);
-            ans.push_back({i, {nums[i], newval}});
+            ans.push_back({i, newval});
         }
         sort(ans.begin(), ans.end(), cmp);
+        vector<int> ans2;
         for(int i=0;i<ans.size();i++)
-            nums[i]=ans[i].second.first;
-        return nums;
+            ans2.push_back(nums[ans[i].first]);
+        return ans2;
     }
 };
