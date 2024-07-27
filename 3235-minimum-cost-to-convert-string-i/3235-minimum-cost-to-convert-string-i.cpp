@@ -16,7 +16,7 @@ public:
 
     long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
         vector<vector<long long>> adjMatrix(26, vector<long long>(26, INT_MAX));
-        FloydWarshall(adjMatrix, original, changed, cost); //update adjMatrix with shortest path using Floyd Warshall
+        FloydWarshall(adjMatrix, original, changed, cost);
         long long ans = 0;
         for(int i = 0; i < source.length(); i++) {
             if(source[i] == target[i])
