@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raghav161/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghav161/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raghav161/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/raghav161/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raghav161/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
