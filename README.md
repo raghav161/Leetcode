@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raghav161/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
 | [1642-water-bottles](https://github.com/raghav161/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/raghav161/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
