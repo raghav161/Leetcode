@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/raghav161/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1680-count-all-possible-routes](https://github.com/raghav161/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1706-min-cost-to-connect-all-points](https://github.com/raghav161/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/raghav161/Leetcode/tree/master/1803-average-waiting-time) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/raghav161/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/raghav161/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1680-count-all-possible-routes](https://github.com/raghav161/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/raghav161/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Number Theory
