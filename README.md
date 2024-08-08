@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raghav161/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
 | [0993-tallest-billboard](https://github.com/raghav161/Leetcode/tree/master/0993-tallest-billboard) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/raghav161/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/raghav161/Leetcode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raghav161/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/raghav161/Leetcode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0741-cherry-pickup](https://github.com/raghav161/Leetcode/tree/master/0741-cherry-pickup) |
+| [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raghav161/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
