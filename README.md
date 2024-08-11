@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/raghav161/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/raghav161/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/raghav161/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/raghav161/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/raghav161/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raghav161/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1680-count-all-possible-routes](https://github.com/raghav161/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/raghav161/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raghav161/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/raghav161/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/raghav161/Leetcode/tree/master/1511-count-number-of-teams) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
