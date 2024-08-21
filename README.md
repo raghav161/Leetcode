@@ -465,4 +465,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/raghav161/Leetcode/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/raghav161/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/raghav161/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/raghav161/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
