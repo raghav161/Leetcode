@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/raghav161/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/raghav161/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/raghav161/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2803-modify-graph-edge-weights](https://github.com/raghav161/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/raghav161/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Linked List
