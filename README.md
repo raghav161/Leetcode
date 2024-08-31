@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
+| [0754-cracking-the-safe](https://github.com/raghav161/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0754-cracking-the-safe](https://github.com/raghav161/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/raghav161/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -483,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/raghav161/Leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/raghav161/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/raghav161/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/raghav161/Leetcode/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
