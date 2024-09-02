@@ -16,11 +16,10 @@ public:
     {
         if(root==NULL)
             return;
-        if(path != "")
-            path += "->";
         path+=(to_string(root->val));
         if(root->left==NULL && root->right==NULL)
             res.push_back(path);
+        path += "->";
         bt(root->left, path);
         bt(root->right, path);
     }
