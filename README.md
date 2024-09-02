@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0454-4sum-ii](https://github.com/raghav161/Leetcode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/raghav161/Leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/raghav161/Leetcode/tree/master/0741-cherry-pickup) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/raghav161/Leetcode/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0494-target-sum](https://github.com/raghav161/Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/raghav161/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0890-lemonade-change](https://github.com/raghav161/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
