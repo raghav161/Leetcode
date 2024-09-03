@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/raghav161/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raghav161/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0940-fruit-into-baskets](https://github.com/raghav161/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
 | [0993-tallest-billboard](https://github.com/raghav161/Leetcode/tree/master/0993-tallest-billboard) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raghav161/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/raghav161/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghav161/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/raghav161/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bitmask
 |  |
