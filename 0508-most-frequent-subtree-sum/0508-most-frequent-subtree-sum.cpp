@@ -11,30 +11,30 @@
  */
 class Solution {
 public:
-    map<int, int> mp;
-    int f(TreeNode* root)
+    unordered_map<int, int> mp;
+    int f(TreeNode* root, int& maxi)
     {
-        if(!root->left and !root->right)
+        if(root->left==NULL and root->right==NULL)
         {
             mp[root->val]++;
+            maxi=max(maxi, mp[root->val]);
             return root->val;
         }
         int l=0, r=0;
         if(root->left)
-            l=f(root->left);
+            l=f(root->left, maxi);
         if(root->right)
-            r=f(root->right);
+            r=f(root->right, maxi);
         mp[root->val+l+r]++;
+        maxi=max(maxi, mp[root->val+l+r]);
         return root->val+l+r;
     }
     vector<int> findFrequentTreeSum(TreeNode* root) {
         if(!root->left and !root->right)
             return {root->val};
-        f(root);
         int maxi=0;
+        f(root, maxi);
         vector<int> ans;
-        for(auto i:mp)
-            maxi=max(maxi, i.second);
         for(auto i:mp)
         {
             if(i.second==maxi)
