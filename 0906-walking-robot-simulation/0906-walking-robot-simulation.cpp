@@ -21,7 +21,7 @@ public:
                     if(st.find(to_string(xx) + "_" + to_string(yy))==st.end())
                     {
                         x=xx, y=yy;
-                        maxi=max(maxi, x*x + y*y);
+                        maxi=max(maxi, x*x+y*y);
                     }
                     else
                         break;
