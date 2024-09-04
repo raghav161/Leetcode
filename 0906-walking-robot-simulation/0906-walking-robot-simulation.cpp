@@ -16,11 +16,11 @@ public:
             {
                 for(int j=0;j<commands[i];j++)
                 {
-                    int newX=x+directions[direction];
-                    int newY=y+directions[direction+1];
-                    if(st.find(to_string(newX) + "_" + to_string(newY))==st.end())
+                    int xx=x+directions[direction];
+                    int yy=y+directions[direction+1];
+                    if(st.find(to_string(xx) + "_" + to_string(yy))==st.end())
                     {
-                        x=newX, y=newY;
+                        x=xx, y=yy;
                         maxi=max(maxi, x*x + y*y);
                     }
                     else
