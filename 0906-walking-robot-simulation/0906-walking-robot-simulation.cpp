@@ -9,9 +9,9 @@ public:
         for(int i=0;i<commands.size();i++)
         {
             if(commands[i]==-2)
-                direction = (direction + 3)%4;
+                direction=(direction+3)%4;
             else if(commands[i]==-1)
-                direction = (direction + 1)%4;
+                direction=(direction+1)%4;
             else
             {
                 for(int j=0;j<commands[i];j++)
