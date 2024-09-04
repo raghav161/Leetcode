@@ -22,10 +22,10 @@ public:
         // checking is there is a duplicate in the box
         int boxrow = (r/3)*3;
         int boxcol = (c/3)*3;
-        int rowend = boxrow+3;
-        int colend = boxcol+3;
-        for (int i = boxrow; i < rowend; i++) {
-            for (int j = boxcol; j <colend; j++) {
+        int rowend = boxrow+2;
+        int colend = boxcol+2;
+        for (int i = boxrow; i <= rowend; i++) {
+            for (int j = boxcol; j <=colend; j++) {
                 if (i != r && j != c && b[i][j] == ch) {
                     return false;
                 }
