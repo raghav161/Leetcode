@@ -16,8 +16,7 @@ public:
             {
                 for(int j=0;j<commands[i];j++)
                 {
-                    int xx=x+directions[direction];
-                    int yy=y+directions[direction+1];
+                    int xx=x+directions[direction], yy=y+directions[direction+1];
                     if(st.find(to_string(xx) + "_" + to_string(yy))==st.end())
                     {
                         x=xx, y=yy;
