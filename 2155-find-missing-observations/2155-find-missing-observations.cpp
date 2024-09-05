@@ -8,7 +8,7 @@ public:
         int avg=rem/n;
         if(avg>6 or avg<=0)
             return {};
-        int extra=rem - avg*n;
+        int extra=rem%n;
         for(int i=0;i<n;i++)
         {
             int xx=0;
