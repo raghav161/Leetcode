@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/raghav161/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/raghav161/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/raghav161/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Number Theory
 |  |
