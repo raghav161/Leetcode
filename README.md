@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/raghav161/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2727-number-of-senior-citizens](https://github.com/raghav161/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/raghav161/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/raghav161/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/raghav161/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
