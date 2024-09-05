@@ -1,7 +1,7 @@
 class Solution {
 public:
     int shortestSequence(vector<int> & rolls, int k) {
-        set<int> st;
+        unordered_set<int> st;
         int ans=1;
         for(int i=0;i<rolls.size();i++)
         {
