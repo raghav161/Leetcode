@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/raghav161/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raghav161/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raghav161/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raghav161/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raghav161/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
