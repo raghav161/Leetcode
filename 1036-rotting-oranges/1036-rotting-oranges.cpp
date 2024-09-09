@@ -3,16 +3,15 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int m=grid.size(), n=grid[0].size();
         queue<pair<pair<int, int>, int>> q;
-        vector<vector<int>> vis(m, vector<int>(n));
+        int count=0;
         for(int i=0;i<m;i++)
         {
             for(int j=0;j<n;j++)
             {
                 if(grid[i][j]==2)
-                {
                     q.push({{i, j}, 0});
-                    vis[i][j]=2;
-                }
+                else if(grid[i][j]==1)
+                    count++;
             }
         }
         int time=0;
@@ -27,21 +26,16 @@ public:
             for(int i=0;i<4;i++)
             {
                 int drow=row+delcol[i], dcol=col+delcol[i+1];
-                if(drow>=0 && drow<m && dcol>=0 && dcol<n && grid[drow][dcol]==1 && vis[drow][dcol]==0)
+                if(drow>=0 && drow<m && dcol>=0 && dcol<n && grid[drow][dcol]==1)
                 {
                     q.push({{drow, dcol}, t+1});
-                    vis[drow][dcol]=2;
+                    grid[drow][dcol]=2;
+                    count--;
                 }
             }
         }
-        for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(vis[i][j]!=2 && grid[i][j]==1)
-                    return -1;
-            }
-        }
-        return time;
+        if(count==0)
+            return time;
+        return -1;
     }
 };
