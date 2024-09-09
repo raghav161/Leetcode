@@ -14,7 +14,7 @@ public:
         vector<vector<int>> ans(m, vector<int>(n, -1));
         int left=0, right=n-1, top=0, bottom=m-1;
         ListNode* temp=head;
-        while(temp and top <= bottom && left <= right)
+        while(temp and top<=bottom and left<=right)
         {
             for(int i=left;i<=right and temp;i++)
             {
