@@ -1,32 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> spiralMatrixIII(int R, int C, int x, int y) {
-        vector<vector<int>> sol;
-        int n = 0, step = 1;
-        while (n < R * C) {
-            for (int i = 0; i < step; ++i) {
-                if (x >= 0 and x < R and y >= 0 and y < C)
-                    sol.push_back(vector<int>{x, y}), n++;
-                y++;
+    vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
+        vector<int> directions = {0, 1, 0, -1, 0};
+        vector<vector<int>> result;  
+        int step=0, dir=0;
+        result.push_back({rStart, cStart});
+        while(result.size() < rows * cols)
+        {
+            if(dir==0 or dir==2)
+                step++;
+            for(int i=0;i<step;i++)
+            {
+                rStart += directions[dir];
+                cStart += directions[dir+1];
+                if(rStart>=0 and rStart<rows and cStart>=0 and cStart<cols)
+                    result.push_back({rStart, cStart});
             }
-            for (int i = 0; i < step; ++i) {
-                if (x >= 0 and x < R and y >= 0 and y < C)
-                    sol.push_back(vector<int>{x, y}), n++;
-                x++;
-            }
-            step++;
-            for (int i = 0; i < step; ++i) {
-                if (x >= 0 and x < R and y >= 0 and y < C)
-                    sol.push_back(vector<int>{x, y}), n++;
-                y--;
-            }
-            for (int i = 0; i < step; ++i) {
-                if (x >= 0 and x < R and y >= 0 and y < C)
-                    sol.push_back(vector<int>{x, y}), n++;
-                x--;
-            }
-            step++;
+            dir=(dir+1)%4;
         }
-        return sol;
+        return result;
     }
 };
