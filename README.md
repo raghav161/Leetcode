@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/raghav161/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/raghav161/Leetcode/tree/master/1803-average-waiting-time) |
 | [1814-jump-game-vi](https://github.com/raghav161/Leetcode/tree/master/1814-jump-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/raghav161/Leetcode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raghav161/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## String
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/raghav161/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/raghav161/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/raghav161/Leetcode/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/raghav161/Leetcode/tree/master/0338-counting-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/raghav161/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
