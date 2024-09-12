@@ -1,22 +1,21 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        unordered_set<char> st;
-        for(int i=0;i<allowed.size();i++)
-            st.insert(allowed[i]);
+        int mask = 0;
+        for(auto& ch:allowed)
+            mask |= 1 << (ch-'a');
         int count=0;
-        for(int i=0;i<words.size();i++)
-        {
-            int flag=1;
-            for(auto j:words[i])
+        for(auto& word:words) {
+            int allChar = 1;
+            for(int i = 0; i < word.length(); i++)
             {
-                if(st.count(j)==0)
+                if(((mask >> (word[i] - 'a')) & 1) == 0)
                 {
-                    flag=0;
+                    allChar = 0;
                     break;
                 }
             }
-            count+=flag;
+            count+=allChar;
         }
         return count;
     }
