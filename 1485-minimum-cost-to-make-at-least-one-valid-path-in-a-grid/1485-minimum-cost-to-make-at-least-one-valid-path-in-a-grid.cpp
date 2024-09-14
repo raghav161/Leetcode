@@ -2,9 +2,11 @@ class Solution {
 public:
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {1, -1, 0, 0};
-    void bfs(int x, int y, vector<vector<int>>& dist, vector<vector<int>>& grid) {
+    int minCost(vector<vector<int>>& grid) {
+        vector<vector<int>> dist(grid.size(), vector<int>(grid[0].size(), INT_MAX));
+        dist[0][0]=0;
         queue<pair<int, int>> q;
-        q.push({x, y});
+        q.push({0, 0});
         while(!q.empty()) {
             int x1 = q.front().first, y1 = q.front().second;
             q.pop();
@@ -24,12 +26,6 @@ public:
                 }
             }
         }
-        return;
-    }
-    int minCost(vector<vector<int>>& grid) {
-        vector<vector<int>> dist(grid.size(), vector<int>(grid[0].size(), INT_MAX));
-        dist[0][0]=0;
-        bfs(0, 0, dist, grid);
         return dist[grid.size()-1][grid[0].size()-1];
     }
 };
