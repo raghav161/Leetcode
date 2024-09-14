@@ -10,7 +10,7 @@ public:
             q.pop();
             for(int i=0;i<4;i++)
             {
-                int wX = x1 + dx[i], wY = y1+ dy[i];
+                int wX = x1 + dx[i], wY = y1 + dy[i];
                 if (wX >= 0 && wX < grid.size() && wY >= 0 && wY < grid[0].size())
                 {
                     if (i + 1 == grid[x1][y1] && dist[x1][y1] < dist[wX][wY]) {
