@@ -9,7 +9,8 @@ public:
             TrieNode() { memset(children, 0, sizeof(children)); }
         };
         TrieNode* root = new TrieNode();
-        for(auto& word:words) {
+        for(auto& word:words)
+        {
             TrieNode* node=root;
             for(auto c:word)
             {
