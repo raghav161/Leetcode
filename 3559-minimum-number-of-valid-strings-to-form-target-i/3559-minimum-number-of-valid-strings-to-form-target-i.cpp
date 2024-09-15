@@ -5,39 +5,33 @@ public:
         int n = target.size();
         vector<int> dp(n + 1, INF);
         dp[0] = 0;
-
         struct TrieNode {
             TrieNode* children[26];
             TrieNode() { memset(children, 0, sizeof(children)); }
         };
-
         TrieNode* root = new TrieNode();
-
-        for (const string& word : words) {
-            TrieNode* node = root;
-            for (char c : word) {
-                int idx = c - 'a';
-                if (!node->children[idx]) {
-                    node->children[idx] = new TrieNode();
-                }
-                node = node->children[idx];
+        for(auto& word:words) {
+            TrieNode* node=root;
+            for(auto c:word)
+            {
+                if(!node->children[c-'a'])
+                    node->children[c-'a'] = new TrieNode();
+                node = node->children[c-'a'];
             }
         }
-
-        for (int i = 0; i < n; ++i) {
-            if (dp[i] == INF)
+        for(int i=0;i<n;i++)
+        {
+            if(dp[i]==INF)
                 continue;
-
             TrieNode* node = root;
-            for (int j = i; j < n; ++j) {
-                int idx = target[j] - 'a';
-                if (!node->children[idx])
+            for(int j=i;j<n;j++)
+            {
+                if(!node->children[target[j]-'a'])
                     break;
-                node = node->children[idx];
-                dp[j + 1] = min(dp[j + 1], dp[i] + 1);
+                node = node->children[target[j]-'a'];
+                dp[j+1] = min(dp[j+1], dp[i]+1);
             }
         }
-
         return dp[n] == INF ? -1 : dp[n];
     }
 };
