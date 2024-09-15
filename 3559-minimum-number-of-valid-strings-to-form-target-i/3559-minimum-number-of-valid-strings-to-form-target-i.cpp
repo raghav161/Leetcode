@@ -1,9 +1,8 @@
 class Solution {
 public:
     int minValidStrings(vector<string>& words, string target) {
-        const int INF = INT_MAX / 2;
         int n = target.size();
-        vector<int> dp(n + 1, INF);
+        vector<int> dp(n + 1, INT_MAX);
         dp[0] = 0;
         struct TrieNode {
             TrieNode* children[26];
@@ -21,7 +20,7 @@ public:
         }
         for(int i=0;i<n;i++)
         {
-            if(dp[i]==INF)
+            if(dp[i]==INT_MAX)
                 continue;
             TrieNode* node = root;
             for(int j=i;j<n;j++)
@@ -32,6 +31,6 @@ public:
                 dp[j+1] = min(dp[j+1], dp[i]+1);
             }
         }
-        return dp[n] == INF ? -1 : dp[n];
+        return dp[n] == INT_MAX ? -1 : dp[n];
     }
 };
