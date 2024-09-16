@@ -11,11 +11,10 @@ public:
             int b = stoi(time[i+1].substr(0, 2));
             int a1 = stoi(time[i].substr(3, 5));
             int b1 = stoi(time[i+1].substr(3, 5));
-            int value = b1 + (60-a1) + (60*(b-a-1));
             if(b==a)
                 mini = min(mini, b1-a1);
             else
-                mini = min(mini, value);
+                mini = min(mini, b1 + (60-a1) + (60*(b-a-1)));
         }
         return mini;
     }
