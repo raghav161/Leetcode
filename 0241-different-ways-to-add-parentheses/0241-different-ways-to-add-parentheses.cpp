@@ -1,37 +1,28 @@
 class Solution {
-  public:
-    vector<int> func(int i, int j, vector<vector<vector<int>>>& dp, string expression) {
-        if(dp[i][j].size())
-            return dp[i][j];
-        int len = j-i+1;
-        if(len <= 2)
-            return dp[i][j] = {stoi(expression.substr(i, len))};
-        vector<int> res;
-        for(int ind=i;ind<=j;ind++)
-        {
-            char op = expression[ind];
-            if(op == '+' || op == '-' || op == '*')
-            {
-                vector<int> left = func(i, ind - 1, dp, expression);
-                vector<int> right = func(ind + 1, j, dp, expression);
-                for(int l : left)
-                {
-                    for(int r : right)
-                    {
-                        if(op == '+')
-                            res.push_back(l + r);
-                        else if(op == '-')
-                            res.push_back(l - r);
-                        else if(op == '*')
-                            res.push_back(l * r);
+public:
+    vector<int> solve(string s) {
+        vector<int> result;
+        for(int i = 0; i < s.length(); i++) {
+            if(s[i] == '+' || s[i] == '-' || s[i] == '*') {
+                vector<int> left_results  = solve(s.substr(0, i));
+                vector<int> right_results = solve(s.substr(i+1));
+                for(int &x : left_results) {
+                    for(int &y : right_results) {
+                        if(s[i] == '+')
+                            result.push_back(x+y);
+                        else if(s[i] == '-')
+                            result.push_back(x-y);
+                        else
+                            result.push_back(x*y);
                     }
                 }
             }
         }
-        return dp[i][j] = res;
+        if(result.empty())
+            result.push_back(stoi(s));
+        return result;
     }
-    vector<int> diffWaysToCompute(string expression) {
-        vector<vector<vector<int>>> dp(expression.size(), vector<vector<int>>(expression.size()));
-        return func(0, expression.size()-1, dp, expression);
+    vector<int> diffWaysToCompute(string s) {
+        return solve(s);
     }
 };
