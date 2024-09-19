@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/raghav161/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/raghav161/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/raghav161/Leetcode/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1680-count-all-possible-routes](https://github.com/raghav161/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav161/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghav161/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/raghav161/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghav161/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav161/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/raghav161/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
 | [0539-minimum-time-difference](https://github.com/raghav161/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/raghav161/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/raghav161/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/raghav161/Leetcode/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/raghav161/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Backtracking
 |  |
