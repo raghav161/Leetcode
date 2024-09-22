@@ -3,11 +3,11 @@ public:
     long long f(long long T, int workerTime)
     {
         long long low = 0, high = 1e6;
-        while (low < high)
+        while(low < high)
         {
-            long long mid = low + (high - low + 1) / 2;
-            long long timeRequired = workerTime * mid * (mid + 1) / 2;
-            if (timeRequired <= T)
+            long long mid = low + (high-low+1)/2;
+            long long timeRequired = workerTime*mid*(mid + 1)/2;
+            if(timeRequired <= T)
                 low = mid;
             else
                 high = mid-1;
@@ -23,7 +23,7 @@ public:
             for(auto workerTime:workerTimes)
             {
                 totalHeightReduced += f(mid, workerTime);
-                if (totalHeightReduced >= mountainHeight)
+                if(totalHeightReduced >= mountainHeight)
                     break;
             }
             if (totalHeightReduced >= mountainHeight)
