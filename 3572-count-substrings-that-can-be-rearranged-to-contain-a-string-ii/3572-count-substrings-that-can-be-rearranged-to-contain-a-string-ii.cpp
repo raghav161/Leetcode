@@ -6,10 +6,7 @@ public:
         for(auto c:word2)
             mp1[c-'a']++;
         for(int i=0;i<26;i++)
-        {
-            if(mp1[i]>0)
-                count+=mp1[i];
-        }
+            count+=mp1[i];
         long long ans=0;
         int left=0;
         for(int right=0;right<word1.length();right++)
