@@ -1,36 +1,34 @@
 class Solution {
 public:
-    long long f(long long T, int workerTime)
-    {
-        long long low = 0, high = 1e6;
-        while(low < high)
+    bool f(long long t, int h, vector<int>& wt){
+        long long totalH = 0;
+        for(auto w:wt)
         {
-            long long mid = low + (high-low+1)/2;
-            long long timeRequired = workerTime*mid*(mid + 1)/2;
-            if(timeRequired <= T)
-                low = mid;
-            else
-                high = mid-1;
+            long long left=0, right=1e6;
+            while(left<=right)
+            {
+                long long mid = left + (right - left) / 2;
+                if(w*mid*(mid+1)/2 <= t)
+                    left = mid + 1;
+                else
+                    right = mid - 1;
+            }
+            totalH+=right;
+            if(totalH>=h)
+                return true;
         }
-        return low;
+        return totalH >= h;
     }
     long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) {
-        long long low = 0, high = 1e18;
-        while (low < high)
+        long long low=0, high=1e18;
+        while(low<=high)
         {
-            long long mid = low + (high - low) / 2;
-            long long totalHeightReduced = 0;
-            for(auto workerTime:workerTimes)
-            {
-                totalHeightReduced += f(mid, workerTime);
-                if(totalHeightReduced >= mountainHeight)
-                    break;
-            }
-            if (totalHeightReduced >= mountainHeight)
-                high = mid;
+            long long mid=low + (high-low)/2;
+            if(f(mid, mountainHeight, workerTimes))
+                high = mid-1;
             else
-                low = mid + 1;
+                low = mid+1;
         }
-        return low;
+        return high+1;
     }
 };
