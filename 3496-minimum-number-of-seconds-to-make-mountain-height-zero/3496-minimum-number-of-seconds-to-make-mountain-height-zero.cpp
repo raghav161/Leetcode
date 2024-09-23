@@ -14,6 +14,8 @@ public:
                     left = mid + 1;
             }
             totalH+=right;
+            if(totalH>=h)
+                return true;
         }
         return totalH >= h;
     }
