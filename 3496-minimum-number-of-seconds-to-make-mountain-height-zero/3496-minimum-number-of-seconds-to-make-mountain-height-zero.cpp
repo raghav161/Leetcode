@@ -8,10 +8,10 @@ public:
             while(left<=right)
             {
                 long long mid = left + (right - left) / 2;
-                if(w*mid*(mid+1)/2 <= t)
-                    left = mid + 1;
-                else
+                if(w*mid*(mid+1)/2>t)
                     right = mid - 1;
+                else
+                    left = mid + 1;
             }
             totalH+=right;
             if(totalH>=h)
