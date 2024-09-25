@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/raghav161/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/raghav161/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/raghav161/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/raghav161/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/raghav161/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/raghav161/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
