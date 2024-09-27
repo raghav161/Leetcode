@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/raghav161/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raghav161/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/raghav161/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raghav161/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/raghav161/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/raghav161/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1435-xor-queries-of-a-subarray](https://github.com/raghav161/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/raghav161/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 ## Heap (Priority Queue)
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1814-jump-game-vi](https://github.com/raghav161/Leetcode/tree/master/1814-jump-game-vi) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/raghav161/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/raghav161/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
