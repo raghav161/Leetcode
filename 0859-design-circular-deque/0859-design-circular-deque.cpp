@@ -8,7 +8,7 @@ public:
 
     MyCircularDeque(int k) {
         K = k;
-        deq = vector<int>(K, 0);
+        deq.resize(k);
         front = 0;
         rear  = K-1;
         currentCount = 0;
