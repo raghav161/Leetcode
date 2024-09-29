@@ -2,14 +2,14 @@ class Solution {
     set<pair<int, pair<int, int>>> st;
 public:
     bool f(int i, int j, int flag, string &word1, string &word2, vector<int> &ans) {
-        if (j >= word2.size())
+        if(j >= word2.size())
             return true;
-        if (i >= word1.size())
+        if(i >= word1.size())
             return false;
-        if (st.count({i, {j, flag}}))
+        if(st.count({i, {j, flag}}))
             return false;
         bool f1 = 0;
-        if (word1[i] == word2[j])
+        if(word1[i] == word2[j])
         {
             f1 = f(i + 1, j + 1, flag, word1, word2, ans);
             if(f1)
