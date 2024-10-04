@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raghav161/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/raghav161/Leetcode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/raghav161/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/raghav161/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raghav161/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/raghav161/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/raghav161/Leetcode/tree/master/0650-2-keys-keyboard) |
