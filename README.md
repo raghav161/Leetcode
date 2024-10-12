@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/raghav161/Leetcode/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/raghav161/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/raghav161/Leetcode/tree/master/1301-reformat-department-table) |
+| [1415-students-and-examinations](https://github.com/raghav161/Leetcode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/raghav161/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1942-primary-department-for-each-employee](https://github.com/raghav161/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/raghav161/Leetcode/tree/master/2057-count-salary-categories) |
