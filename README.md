@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/raghav161/Leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/raghav161/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/raghav161/Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/raghav161/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/raghav161/Leetcode/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/raghav161/Leetcode/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/raghav161/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
