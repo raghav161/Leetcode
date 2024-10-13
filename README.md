@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/raghav161/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/raghav161/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/raghav161/Leetcode/tree/master/1734-bank-account-summary-ii) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/raghav161/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/raghav161/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/raghav161/Leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/raghav161/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
