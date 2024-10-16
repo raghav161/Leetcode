@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raghav161/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/raghav161/Leetcode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/raghav161/Leetcode/tree/master/0494-target-sum) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raghav161/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghav161/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raghav161/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/raghav161/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/raghav161/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -786,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
