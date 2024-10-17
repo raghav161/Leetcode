@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/raghav161/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/raghav161/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/raghav161/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/raghav161/Leetcode/tree/master/0817-design-hashmap) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/raghav161/Leetcode/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/raghav161/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/raghav161/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/raghav161/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/raghav161/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/raghav161/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/raghav161/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/raghav161/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/raghav161/Leetcode/tree/master/0677-map-sum-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
