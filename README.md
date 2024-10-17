@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/raghav161/Leetcode/tree/master/0741-cherry-pickup) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
+| [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0890-lemonade-change](https://github.com/raghav161/Leetcode/tree/master/0890-lemonade-change) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/raghav161/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
+| [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raghav161/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/raghav161/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raghav161/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/raghav161/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raghav161/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
@@ -779,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 ## Trie
 |  |
 | ------- |
