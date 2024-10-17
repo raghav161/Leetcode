@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3460-count-the-number-of-inversions](https://github.com/raghav161/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raghav161/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raghav161/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Two Pointers
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/raghav161/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/raghav161/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
+| [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/raghav161/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Binary Search Tree
 |  |
 | ------- |
