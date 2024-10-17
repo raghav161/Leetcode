@@ -5,9 +5,8 @@ public:
 
     SnapshotArray(int length) {
         snap_id = 0;
-        for (int i = 0; i < length; i++) {
+        for (int i = 0; i < length; i++)
             vec[i].push_back({0, 0});
-        }
     }
 
     void set(int index, int val) {   
