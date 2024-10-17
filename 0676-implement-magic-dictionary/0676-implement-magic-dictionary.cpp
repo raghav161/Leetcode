@@ -6,8 +6,7 @@ public:
     }
     
     void buildDict(vector<string> dictionary) {
-        unordered_set<string> temp(dictionary.begin(), dictionary.end());
-        st=temp;
+        st=unordered_set<string>(dictionary.begin(), dictionary.end());
     }
     
     bool search(string s) {
