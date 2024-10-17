@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raghav161/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1447-jump-game-iv](https://github.com/raghav161/Leetcode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raghav161/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/raghav161/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/raghav161/Leetcode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/raghav161/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raghav161/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
 ## Binary Search Tree
 |  |
