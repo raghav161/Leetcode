@@ -1,4 +1,4 @@
-class neighborSum {
+class NeighborSum {
 public:
     vector<vector<int>> grid;
     int n;
@@ -6,15 +6,13 @@ public:
         return x >= 0 && x < n && y >= 0 && y < n;
     }
     unordered_map<int, pair<int, int>> mp;
-    neighborSum(vector<vector<int>>& g) {
+    NeighborSum(vector<vector<int>>& g) {
         grid=g;
         n=grid.size();
         for(int i=0;i<g.size();i++)
         {
             for(int j=0;j<g[0].size();j++)
-            {
                 mp[g[i][j]] = {i, j};
-            }
         }
     }
     
