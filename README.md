@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/raghav161/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Binary Search Tree
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/raghav161/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
 ## Ordered Set
 |  |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0885-exam-room](https://github.com/raghav161/Leetcode/tree/master/0885-exam-room) |
 | [0931-maximum-frequency-stack](https://github.com/raghav161/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
