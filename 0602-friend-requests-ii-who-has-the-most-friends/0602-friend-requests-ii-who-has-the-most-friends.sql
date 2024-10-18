@@ -9,7 +9,7 @@ UNION ALL
 SELECT 
     accepter_id as id
 FROM RequestAccepted
-) m
+) AS temp
 GROUP BY id
 ORDER BY num DESC
 LIMIT 1;
