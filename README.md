@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/raghav161/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/raghav161/Leetcode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/raghav161/Leetcode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/raghav161/Leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/raghav161/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/raghav161/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/raghav161/Leetcode/tree/master/0601-human-traffic-of-stadium) |
