@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/raghav161/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
 | [0993-tallest-billboard](https://github.com/raghav161/Leetcode/tree/master/0993-tallest-billboard) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/raghav161/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/raghav161/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/raghav161/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/raghav161/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
 | [1249-snapshot-array](https://github.com/raghav161/Leetcode/tree/master/1249-snapshot-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/raghav161/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/raghav161/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [0885-exam-room](https://github.com/raghav161/Leetcode/tree/master/0885-exam-room) |
+| [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
 | [1249-snapshot-array](https://github.com/raghav161/Leetcode/tree/master/1249-snapshot-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raghav161/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
