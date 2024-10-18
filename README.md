@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [0885-exam-room](https://github.com/raghav161/Leetcode/tree/master/0885-exam-room) |
 | [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
+| [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1249-snapshot-array](https://github.com/raghav161/Leetcode/tree/master/1249-snapshot-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raghav161/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
