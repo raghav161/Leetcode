@@ -38,10 +38,11 @@ public:
     }
 
     void drop(int shop, int movie) {
-        for(auto it = cheapest_movies.begin(); it != cheapest_movies.end(); it++) {
-            if((*it)[1]==shop and (*it)[2] == movie)
+        for(auto it:cheapest_movies)
+        {
+            if(it[1]==shop and it[2]==movie)
             {
-                int price = (*it)[0];
+                int price=it[0];
                 cheapest_movies.erase({price, shop, movie});
                 avail_renting[{shop, movie}] = price;
                 cheapest_shops[movie].insert({price, shop});
