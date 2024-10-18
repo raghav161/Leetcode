@@ -11,7 +11,7 @@ class WordFilter {
             for (int j = 1; j <= wordSize; j++) {
                 string p = word.substr(0, j);
                 for (int k = 0; k < wordSize; k++) {
-                    string s = word.substr(k, wordSize);
+                    string s = word.substr(k);
                     hashMap[p + "|" + s] = i + 1;
                 }
             }
