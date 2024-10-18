@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/raghav161/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/raghav161/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/raghav161/Leetcode/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/raghav161/Leetcode/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/raghav161/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/raghav161/Leetcode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/raghav161/Leetcode/tree/master/1415-students-and-examinations) |
