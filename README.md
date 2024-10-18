@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raghav161/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/raghav161/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/raghav161/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0931-maximum-frequency-stack](https://github.com/raghav161/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/raghav161/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/raghav161/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/raghav161/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0931-maximum-frequency-stack](https://github.com/raghav161/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/raghav161/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/raghav161/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [0885-exam-room](https://github.com/raghav161/Leetcode/tree/master/0885-exam-room) |
+| [0931-maximum-frequency-stack](https://github.com/raghav161/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0947-online-election](https://github.com/raghav161/Leetcode/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1023-time-based-key-value-store](https://github.com/raghav161/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/raghav161/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghav161/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0885-exam-room](https://github.com/raghav161/Leetcode/tree/master/0885-exam-room) |
+| [0931-maximum-frequency-stack](https://github.com/raghav161/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
