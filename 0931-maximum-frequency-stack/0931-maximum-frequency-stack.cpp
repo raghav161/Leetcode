@@ -4,7 +4,9 @@ class FreqStack {
     int pos = 0;
 public:
     void push(int x) {
-        q.emplace(++freq[x], make_pair(++pos, x));
+        freq[x]++;
+        pos++;
+        q.push({freq[x], {pos, x}});
     }
     
     int pop() {
