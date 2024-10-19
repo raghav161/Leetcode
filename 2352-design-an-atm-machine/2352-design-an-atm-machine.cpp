@@ -1,6 +1,6 @@
 class ATM {
 public:
-    vector<long long> notes, den = {20,50,100,200, 500};
+    vector<long long> notes, den = {20, 50, 100, 200, 500};
     ATM() {
         notes = vector<long long> (5);
     }
