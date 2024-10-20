@@ -1,15 +1,15 @@
 class Solution {
 public:
     bool parseBoolExpr(string expression) {
-        int n = expression.size();
         stack<char> st;
-        for(auto c: expression)
+        for(auto c:expression)
         {
-            if(c == ',' || c == '(') 
+            if(c == ',' or c == '(') 
                 continue;
-            if(c == ')'){
+            if(c == ')')
+            {
                 int t = 0, f = 0;
-                while(st.top() == 't' || st.top() == 'f')
+                while(st.top() == 't' or st.top() == 'f')
                 {
                     if(st.top() == 't')
                         t = 1;
@@ -42,6 +42,6 @@ public:
                 st.push(c);
         }
 
-        return (st.top() == 't');
+        return (st.top()=='t');
     }
 };
