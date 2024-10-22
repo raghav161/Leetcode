@@ -1,7 +1,7 @@
 class FrequencyTracker {
 public:
-    map<int, int> mp;
-    map<int, set<int>> mp2;
+    unordered_map<int, int> mp;
+    unordered_map<int, unordered_set<int>> mp2;
     FrequencyTracker() {
         
     }
