@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghav161/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/raghav161/Leetcode/tree/master/2778-frequency-tracker) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/raghav161/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raghav161/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
 | ------- |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-design-an-atm-machine](https://github.com/raghav161/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/raghav161/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2778-frequency-tracker](https://github.com/raghav161/Leetcode/tree/master/2778-frequency-tracker) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/raghav161/Leetcode/tree/master/0859-design-circular-deque) |
 | [1767-design-front-middle-back-queue](https://github.com/raghav161/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1814-jump-game-vi](https://github.com/raghav161/Leetcode/tree/master/1814-jump-game-vi) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -948,4 +952,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/raghav161/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1775-design-an-ordered-stream](https://github.com/raghav161/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
