@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/raghav161/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3460-count-the-number-of-inversions](https://github.com/raghav161/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 ## Memoization
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/raghav161/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Shortest Path
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raghav161/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/raghav161/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Enumeration
 |  |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Tree
 |  |
 | ------- |
