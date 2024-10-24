@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/raghav161/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/raghav161/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0753-open-the-lock](https://github.com/raghav161/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/raghav161/Leetcode/tree/master/0869-similar-string-groups) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghav161/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/raghav161/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/raghav161/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/raghav161/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
@@ -738,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/raghav161/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/raghav161/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/raghav161/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/raghav161/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -774,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Iterator
 |  |
 | ------- |
