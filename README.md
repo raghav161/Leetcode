@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/raghav161/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/raghav161/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/raghav161/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/raghav161/Leetcode/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghav161/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/raghav161/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/raghav161/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/raghav161/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/raghav161/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
@@ -727,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/raghav161/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/raghav161/Leetcode/tree/master/0284-peeking-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/raghav161/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/raghav161/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/raghav161/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
