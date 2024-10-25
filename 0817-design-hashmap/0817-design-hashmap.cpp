@@ -31,12 +31,11 @@ public:
     void remove(int key) {
         int bucket_no = key%size;
         auto& chain = bucket[bucket_no];
-        for (auto it=chain.begin(); it!=chain.end(); ) {
+        for (auto it=chain.begin(); it!=chain.end(); it++) {
             if(it->first == key) {
                 chain.erase(it);
                 return;
             }
-            it++;
         }
     }
 };
