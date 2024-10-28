@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghav161/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/raghav161/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghav161/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/raghav161/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/raghav161/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/raghav161/Leetcode/tree/master/0086-partition-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghav161/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/raghav161/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/raghav161/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/raghav161/Leetcode/tree/master/0148-sort-list) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghav161/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghav161/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghav161/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/raghav161/Leetcode/tree/master/0257-binary-tree-paths) |
