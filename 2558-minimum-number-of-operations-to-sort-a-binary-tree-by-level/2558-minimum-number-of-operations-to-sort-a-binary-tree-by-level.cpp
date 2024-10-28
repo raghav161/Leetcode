@@ -13,13 +13,12 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums)
 	{
-	    int n=nums.size();
 	    vector<pair<int, int>> v;
-	    for(int i=0;i<n;i++)
+	    for(int i=0;i<nums.size();i++)
 	        v.push_back({nums[i], i});
 	    sort(v.begin(), v.end());
 	    int ans=0;
-	    for(int i=0;i<n;i++)
+	    for(int i=0;i<nums.size();i++)
 	    {
 	        if(v[i].second!=i)
 	        {
@@ -31,8 +30,6 @@ public:
 	    return ans;
 	}
     int minimumOperations(TreeNode* root) {
-        if(root==NULL)
-            return 0;
         queue<TreeNode*> q;
         q.push(root);
         int count=0;
