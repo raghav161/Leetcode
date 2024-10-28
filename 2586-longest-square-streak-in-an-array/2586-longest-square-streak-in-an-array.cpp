@@ -7,7 +7,7 @@ public:
         {
             int count=0;
             long long curr=(long long)nums[i];
-            while(st.find(curr)!=st.end())
+            while(st.count(curr))
             {
                 count++;
                 curr=(long long)curr*curr;
