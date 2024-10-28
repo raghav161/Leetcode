@@ -20,20 +20,34 @@
  */
 class Solution {
 public:
-    vector<int> f(TreeNode* root, int& ans) {
-        if(root==NULL) 
-            return {INT_MAX, INT_MIN, 0};
-        vector<int> left=f(root->left, ans);
-        vector<int> right=f(root->right, ans);
-        if(left.empty() or right.empty() or root->val <= left[1] or root->val >= right[0]) 
-            return {};
-        int curr_sum = left[2] + right[2] + root->val;
-        ans = max(ans, curr_sum);
-        return {min(left[0], root->val), max(right[1], root->val), curr_sum};
+    class info{
+    public:
+        int maxi;
+        int mini;
+        bool isBst;
+        int sum;
+    };
+    
+    info solve(TreeNode*root,int& ans){
+        if(root==NULL)
+            return {INT_MIN, INT_MAX, true, 0};
+        info left = solve(root->left,ans);
+        info right = solve(root->right,ans);
+        info currNode;
+        currNode.maxi = max(root->val, right.maxi);
+        currNode.mini = min(root->val, left.mini);
+        if(left.isBst && right.isBst && root->val> left.maxi && root->val < right.mini){
+            currNode.isBst = 1;
+            currNode.sum = left.sum + right.sum + root->val;
+            ans=max(ans, currNode.sum);
+        }
+        else
+            currNode.isBst = 0;
+        return currNode;
     }
     int maxSumBST(TreeNode* root) {
-        int ans=0;
-        f(root, ans);
-        return max(0, ans);
+        int sum=0;
+        info t=solve(root, sum);
+        return sum;
     }
 };
