@@ -11,30 +11,6 @@
  */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        if(root==NULL)
-            return ans;
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty())
-        {
-            int n=q.size();
-            vector<int> temp;
-            while(n--)
-            {
-                TreeNode* topVal=q.front();
-                q.pop();
-                temp.push_back(topVal->val);
-                if(topVal->left)
-                    q.push(topVal->left);
-                if(topVal->right)
-                    q.push(topVal->right);
-            }
-            ans.push_back(temp);
-        }
-        return ans;
-    }
     int minSwaps(vector<int>& nums)
 	{
 	    int n=nums.size();
@@ -55,10 +31,27 @@ public:
 	    return ans;
 	}
     int minimumOperations(TreeNode* root) {
-        vector<vector<int>> ans=zigzagLevelOrder(root);
+        if(root==NULL)
+            return 0;
+        queue<TreeNode*> q;
+        q.push(root);
         int count=0;
-        for(int i=0;i<ans.size();i++)
-            count+=minSwaps(ans[i]);
+        while(!q.empty())
+        {
+            int n=q.size();
+            vector<int> temp;
+            while(n--)
+            {
+                TreeNode* topVal=q.front();
+                q.pop();
+                temp.push_back(topVal->val);
+                if(topVal->left)
+                    q.push(topVal->left);
+                if(topVal->right)
+                    q.push(topVal->right);
+            }
+            count+=minSwaps(temp);
+        }
         return count;
     }
 };
