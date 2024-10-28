@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/raghav161/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/raghav161/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/raghav161/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/raghav161/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/raghav161/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/raghav161/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/raghav161/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/raghav161/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/raghav161/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/raghav161/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/raghav161/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
