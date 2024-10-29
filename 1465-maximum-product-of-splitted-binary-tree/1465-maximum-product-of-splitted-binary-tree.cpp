@@ -12,14 +12,6 @@
 class Solution {
 public:
     long long maxi=0;
-    void dfs(TreeNode* root, long long& sum)
-    {
-        if(root==NULL)
-            return;
-        sum+=(long long)root->val;
-        dfs(root->left, sum);
-        dfs(root->right, sum);
-    }
     long long f(TreeNode* root, long long total)
     {
         if(root==NULL)
