@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2727-number-of-senior-citizens](https://github.com/raghav161/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/raghav161/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/raghav161/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3460-count-the-number-of-inversions](https://github.com/raghav161/Leetcode/tree/master/3460-count-the-number-of-inversions) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/raghav161/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/raghav161/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/raghav161/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
