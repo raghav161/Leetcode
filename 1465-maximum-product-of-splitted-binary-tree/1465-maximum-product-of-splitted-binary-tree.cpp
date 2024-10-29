@@ -32,7 +32,7 @@ public:
     }
     int maxProduct(TreeNode* root) {
         long long sum=0;
-        dfs(root, sum);
+        sum=f(root, sum);
         f(root, sum);
         long long m=1e9+7;
         return maxi%m;
