@@ -1,7 +1,7 @@
 class Solution {
+public:
     const int mod = 1e9 + 7;
     int dp[200][201][201];
-public:
     int solve(int i, vector<int> &nums, int first, int second){
         if(i == nums.size())
             return (first && second) && (first == second);
