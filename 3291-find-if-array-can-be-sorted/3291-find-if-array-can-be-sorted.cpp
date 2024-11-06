@@ -1,17 +1,24 @@
 class Solution {
 public:
     bool canSortArray(vector<int>& nums) {
-        int k=0;
-        for(int j=0;j<nums.size();j++)
-        {
-            for(int i=1;i<nums.size();i++)
+        int numOfSetBits = __builtin_popcount(nums[0]), maxOfSegment = nums[0], minOfSegment = nums[0], maxOfPrevSegment = INT_MIN;
+        for (int i = 1; i < nums.size(); i++) {
+            if (__builtin_popcount(nums[i]) == numOfSetBits)
             {
-                if(__builtin_popcount(nums[i])==__builtin_popcount(nums[i-1]) && nums[i-1]>nums[i])
-                    swap(nums[i], nums[i-1]);
+                maxOfSegment = max(maxOfSegment, nums[i]);
+                minOfSegment = min(minOfSegment, nums[i]);
+            } 
+            else {
+                if (minOfSegment < maxOfPrevSegment)
+                    return false;
+                maxOfPrevSegment = maxOfSegment;
+                maxOfSegment = nums[i];
+                minOfSegment = nums[i];
+                numOfSetBits = __builtin_popcount(nums[i]);
             }
-            if(is_sorted(nums.begin(), nums.end()))
-                return 1;
         }
-        return 0;
+        if (minOfSegment < maxOfPrevSegment)
+            return false;
+        return true;
     }
 };
