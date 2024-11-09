@@ -9,8 +9,7 @@ public:
         for (int i = nums[0]; i <= nums.back(); i++) {
             int a = lower_bound(begin(nums), end(nums), i - k) - begin(nums);
             int b = upper_bound(begin(nums), end(nums), i + k) - begin(nums);
-            b--;
-            ans = max(ans, um[i] + min(b - a - um[i] + 1, ops));
+            ans = max(ans, um[i] + min(b - a - um[i], ops));
         }
         return ans;
     }
