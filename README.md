@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/raghav161/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
+| [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
 | [1184-car-pooling](https://github.com/raghav161/Leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/raghav161/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raghav161/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/raghav161/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/raghav161/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/raghav161/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/raghav161/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/raghav161/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/raghav161/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav161/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/raghav161/Leetcode/tree/master/0812-rotate-string) |
+| [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
 | [1764-maximum-repeating-substring](https://github.com/raghav161/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -1032,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/raghav161/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/raghav161/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/raghav161/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raghav161/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/raghav161/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
