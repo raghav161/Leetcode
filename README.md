@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghav161/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/raghav161/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0407-trapping-rain-water-ii](https://github.com/raghav161/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/raghav161/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/raghav161/Leetcode/tree/master/0514-freedom-trail) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/raghav161/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raghav161/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/raghav161/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raghav161/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/raghav161/Leetcode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/raghav161/Leetcode/tree/master/0494-target-sum) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghav161/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/raghav161/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/raghav161/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0885-exam-room](https://github.com/raghav161/Leetcode/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raghav161/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/raghav161/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/raghav161/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/raghav161/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/raghav161/Leetcode/tree/master/0741-cherry-pickup) |
 | [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
