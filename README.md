@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/raghav161/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/raghav161/Leetcode/tree/master/3451-string-compression-iii) |
@@ -996,12 +997,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/raghav161/Leetcode/tree/master/0812-rotate-string) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/raghav161/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/raghav161/Leetcode/tree/master/0817-design-hashmap) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Trie
 |  |
