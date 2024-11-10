@@ -1,6 +1,6 @@
-int dp[800][800][2];
-const int MOD = 1e9 + 7;
 class Solution {
+    int dp[800][800][2];
+    const int MOD = 1e9 + 7;
     int rec(int i, bool flag, int ct, string &s, int &k) {
         if(i == s.size()) {
             if(flag) 
