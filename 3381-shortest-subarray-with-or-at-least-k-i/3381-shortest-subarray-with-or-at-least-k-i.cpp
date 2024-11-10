@@ -1,16 +1,17 @@
 class Solution {
 public:
     int minimumSubarrayLength(vector<int>& nums, int k) {
-        int n = nums.size(), mini = INT_MAX, left = 0, subarrayOR = nums[0];
-        for (int right = 1; right < n; ++right) {
-            subarrayOR |= nums[right];
-            while (subarrayOR >= k && left<=right) {
-                mini = min(mini, right - left + 1);
-                subarrayOR ^= nums[left];
-                ++left;
+        int n=nums.size(), mini=INT_MAX;
+        for(int i=0;i<n;i++)
+        {
+            int ans=0;
+            for(int j=i;j<n;j++)
+            {
+                ans=ans|nums[j];
+                if(ans>=k)
+                    mini=min(mini, j-i+1);
             }
         }
-
-        return (mini == INT_MAX) ? -1 : mini;
+        return (mini==INT_MAX)?-1:mini;
     }
 };
