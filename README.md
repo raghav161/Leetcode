@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/raghav161/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/raghav161/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/raghav161/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/raghav161/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raghav161/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/raghav161/Leetcode/tree/master/2580-circular-sentence) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## String Matching
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/raghav161/Leetcode/tree/master/0812-rotate-string) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
@@ -1013,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/raghav161/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/raghav161/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/raghav161/Leetcode/tree/master/0817-design-hashmap) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Trie
@@ -1066,4 +1071,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/raghav161/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [2161-stock-price-fluctuation](https://github.com/raghav161/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Suffix Array
+|  |
+| ------- |
+| [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
