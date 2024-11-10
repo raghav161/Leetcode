@@ -1,7 +1,7 @@
 typedef unsigned long long ll;
 class Solution {
 public:
-    vector<int> getNSL(vector<int>& arr, int n) {
+    vector<int> prevSmaller(vector<int>& arr, int n) {
         vector<int> result(n);
         stack<int> st;
         for (int i = 0; i < n; i++) {
@@ -13,7 +13,7 @@ public:
         return result;
     }
     
-    vector<int> getNSR(vector<int>& arr, int n) {
+    vector<int> nextSmaller(vector<int>& arr, int n) {
         vector<int> result(n);
         stack<int> st;
         for (int i = n - 1; i >= 0; i--) {
@@ -27,8 +27,8 @@ public:
     
     int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
-        vector<int> NSL = getNSL(arr, n);
-        vector<int> NSR = getNSR(arr, n);
+        vector<int> NSL = prevSmaller(arr, n);
+        vector<int> NSR = nextSmaller(arr, n);
         ll sum = 0;
         int M = 1e9 + 7;
         for (int i = 0; i < n; i++) {
