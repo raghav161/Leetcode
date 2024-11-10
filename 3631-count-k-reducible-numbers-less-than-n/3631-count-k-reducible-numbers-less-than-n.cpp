@@ -1,4 +1,5 @@
 class Solution {
+public:
     int dp[800][800][2];
     const int MOD = 1e9 + 7;
     int rec(int i, bool flag, int ct, string &s, int &k) {
@@ -19,7 +20,6 @@ class Solution {
             choice = (choice + rec(i+1, flag && limit, ct+1, s, k))%MOD;
         return dp[i][ct][flag]=choice;
     }
-public:
     int countKReducibleNumbers(string s, int k) {
         int n = s.size();
         for(int i=0;i<n;i++) {
