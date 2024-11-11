@@ -32,7 +32,7 @@ public:
                     q.push({newIdx, steps+1});
                 }
             }
-            mp[arr[index]].clear();
+            mp.erase(arr[index]);
         }
         return -1;
     }
