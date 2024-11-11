@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raghav161/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/raghav161/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/raghav161/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghav161/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/raghav161/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/raghav161/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2554-minimum-total-distance-traveled](https://github.com/raghav161/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghav161/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/raghav161/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/raghav161/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/raghav161/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/raghav161/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raghav161/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
@@ -729,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/raghav161/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 ## Recursion
 |  |
 | ------- |
