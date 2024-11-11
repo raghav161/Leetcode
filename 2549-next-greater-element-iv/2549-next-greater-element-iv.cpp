@@ -7,7 +7,7 @@ public:
         s.push(0);
         for(int i=1;i<nums.size();i++)
         {
-            while(!m.empty() && nums[i] > (*m.begin()).first)
+            while(!m.empty() && nums[i]>(*m.begin()).first)
             {
                 ans[(*m.begin()).second] = nums[i];
                 m.erase(m.begin());
