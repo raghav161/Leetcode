@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/raghav161/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/raghav161/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/raghav161/Leetcode/tree/master/3438-peaks-in-array) |
 | [3460-count-the-number-of-inversions](https://github.com/raghav161/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Sorting
 |  |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/raghav161/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/raghav161/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/raghav161/Leetcode/tree/master/3394-minimum-array-end) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Enumeration
 |  |
@@ -1075,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/raghav161/Leetcode/tree/master/3438-peaks-in-array) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Ordered Set
