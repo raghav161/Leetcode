@@ -2,7 +2,8 @@ class MaxSegmentTree {
 public:
     int n;
     vector<int> tree;
-    MaxSegmentTree(int n_) : n(n_) {
+    MaxSegmentTree(int n_){
+        n=n_;
         tree = vector<int>(4*n_);
     }
 
