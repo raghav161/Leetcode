@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/raghav161/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/raghav161/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/raghav161/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Linked List
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Matrix
 |  |
 | ------- |
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Recursion
 |  |
 | ------- |
@@ -967,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1511-count-number-of-teams](https://github.com/raghav161/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
 | [3438-peaks-in-array](https://github.com/raghav161/Leetcode/tree/master/3438-peaks-in-array) |
 ## Strongly Connected Component
@@ -1084,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/raghav161/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/raghav161/Leetcode/tree/master/3438-peaks-in-array) |
