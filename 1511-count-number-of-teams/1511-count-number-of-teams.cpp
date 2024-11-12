@@ -1,39 +1,28 @@
 class Solution {
-private:
-    int dpi[1000][3];
-    int fi(int idx, int cnt, vector<int> &rating) {
-        // base cases
-        if(cnt == 3) return 1;
-        if(dpi[idx][cnt] != -1) return dpi[idx][cnt];
-
-        int res = 0;
-        for(int i=idx+1; i<rating.size(); ++i) {
-            if(rating[i] <= rating[idx]) continue;
-            res += fi(i, cnt+1, rating);
-        }
-        return dpi[idx][cnt] = res;
-    }
-    int dpd[1000][3];
-    int fd(int idx, int cnt, vector<int> &rating) {
-        // base cases
-        if(cnt == 3) return 1;
-        if(dpd[idx][cnt] != -1) return dpd[idx][cnt];
-
-        int res = 0;
-        for(int i=idx+1; i<rating.size(); ++i) {
-            if(rating[i] >= rating[idx]) continue;
-            res += fd(i, cnt+1, rating);
-        }
-        return dpd[idx][cnt] = res;
-    }
 public:
+    
+    int f(int idx, int cnt, vector<int>& rating, vector<vector<int>>& dp) {
+        if(cnt == 3)
+            return 1;
+        if(dp[idx][cnt] != -1) 
+            return dp[idx][cnt];
+        int res = 0;
+        for(int i=idx+1; i<rating.size(); ++i) {
+            if(rating[i] < rating[idx]) 
+                res += f(i, cnt+1, rating, dp);
+        }
+        return dp[idx][cnt] = res;
+    }
     int numTeams(vector<int>& rating) {
         int res = 0;
-        memset(dpi, -1, sizeof(dpi));
-        memset(dpd, -1, sizeof(dpd));
+        vector<vector<int>> dp(rating.size(), vector<int>(3, -1));
         for(int i=0; i<rating.size(); ++i) {
-            res += fi(i,1,rating);
-            res += fd(i,1,rating);
+            res += f(i, 1, rating, dp);
+        }
+        reverse(rating.begin(), rating.end());
+        vector<vector<int>> dp2(rating.size(), vector<int>(3, -1));
+        for(int i=0; i<rating.size(); ++i) {
+            res += f(i, 1, rating, dp2);
         }
         return res;
     }
