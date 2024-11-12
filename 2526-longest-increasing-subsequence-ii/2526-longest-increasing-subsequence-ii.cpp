@@ -3,9 +3,7 @@ public:
     int n;
     vector<int> tree;
     MaxSegmentTree(int n_) : n(n_) {
-        int size = (int)(ceil(log2(n)));
-        size = (2 * pow(2, size)) - 1;
-        tree = vector<int>(size);
+        tree = vector<int>(4*n_);
     }
 
     int max_value() { return tree[0]; }
