@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghav161/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/raghav161/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/raghav161/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/raghav161/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/raghav161/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/raghav161/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/raghav161/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/raghav161/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/raghav161/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
