@@ -4,12 +4,7 @@ public:
     {
         int count=0;
         for(int i=0;i<nums.size();i++)
-        {
-            if(nums[i]<=mid)
-                count++;
-            else
-                count+=ceil((double)nums[i]/mid);
-        }
+            count+=ceil((double)nums[i]/mid);
         return count<=n;
     }
     int minimizedMaximum(int n, vector<int>& nums) {
