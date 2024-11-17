@@ -23,6 +23,6 @@ public:
             else
                 l = m + 1;
         }
-        return l <= queries.size() ? l : -1;
+        return l <= queries.size() ? r+1 : -1;
     }
 };
