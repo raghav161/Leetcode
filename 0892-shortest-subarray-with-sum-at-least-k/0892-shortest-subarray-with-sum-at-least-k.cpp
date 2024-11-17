@@ -9,7 +9,7 @@ public:
                 ans=min(ans, i+1);
             while(!pq.empty() and (sum-pq.top().first)>=k)
             {
-                ans=min(ans,i-pq.top().second);
+                ans=min(ans, i-pq.top().second);
                 pq.pop();
             }
             pq.push({sum, i});
