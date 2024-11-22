@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxEqualRowsAfterFlips(vector<vector<int>>& matrix) {
         int n = matrix.size(), m = matrix[0].size();
-        map<string, int> nums;
+        unordered_map<string, int> nums;
         for(int i=0; i<n; i++) {
             string st, ts;
             for(int j=0; j<m; j++) {
