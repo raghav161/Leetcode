@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
 | [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/raghav161/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/raghav161/Leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/raghav161/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/raghav161/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/raghav161/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/raghav161/Leetcode/tree/master/1249-snapshot-array) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/raghav161/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/raghav161/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raghav161/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
