@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/raghav161/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/raghav161/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/raghav161/Leetcode/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/raghav161/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/raghav161/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/raghav161/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/raghav161/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/raghav161/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/raghav161/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raghav161/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raghav161/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/raghav161/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1972-rotating-the-box](https://github.com/raghav161/Leetcode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/raghav161/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/raghav161/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/raghav161/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
