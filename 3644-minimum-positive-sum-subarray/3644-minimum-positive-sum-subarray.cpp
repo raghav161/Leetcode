@@ -9,8 +9,7 @@ public:
         int min_sum = INT_MAX;
         for (int length = l; length <= r; ++length) {
             for (int i = 0; i <= n - length; ++i) {
-                int curr_sum =
-                    prefix[i + length - 1] - (i > 0 ? prefix[i - 1] : 0);
+                int curr_sum = prefix[i + length - 1] - (i > 0 ? prefix[i - 1] : 0);
                 if (curr_sum > 0)
                     min_sum = min(min_sum, curr_sum);
             }
