@@ -14,8 +14,8 @@ public:
             mp[it]--;
             if(mp[it]==0) 
                 mp.erase(it);
-            if(currSum%2==0 and mp.count(currSum/2) and it>ans)
-                ans=it;
+            if(currSum%2==0 and mp.count(currSum/2))
+                ans=max(ans, it);
             mp[it]++;
         }
         return ans;
