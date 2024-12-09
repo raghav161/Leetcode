@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/raghav161/Leetcode/tree/master/3571-length-of-the-longest-increasing-path) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/raghav161/Leetcode/tree/master/3571-length-of-the-longest-increasing-path) |
 ## Sorting
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/raghav161/Leetcode/tree/master/3451-string-compression-iii) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1157,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1167,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -1177,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Trie
 |  |
 | ------- |
@@ -1192,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1207,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/raghav161/Leetcode/tree/master/3438-peaks-in-array) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Ordered Set
 |  |
 | ------- |
