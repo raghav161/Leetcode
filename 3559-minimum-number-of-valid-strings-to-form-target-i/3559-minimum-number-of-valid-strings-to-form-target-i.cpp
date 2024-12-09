@@ -1,53 +1,42 @@
 class Solution {
 public:
-    vector<int>find(string ashu)
+    vector<int> f(string pre)
     {
-        int n = ashu.size();
-        vector<int>lps(n , 0);
-        int j =0 ;
-        int i =1 ;
-        while(i < n )
+        vector<int> lps(pre.size());
+        int i=1, j=0;
+        while(i<pre.size())
         {
-            if(ashu[i] == ashu[j])
+            if(pre[i]==pre[j])
             {
                 j++;
-                lps[i] = j;
+                lps[i]=j;
                 i++;
             }
             else
             {
-                if(j!=0)
-                {
+                if(j)
                     j = lps[j-1];
-                }
-                else{
-                    lps[i] = 0;
+                else
                     i++;
-                }
             }
         }
         return lps;
     }
     int minValidStrings(vector<string>& words, string target) {
-        int n = words.size();
-        vector<vector<int>>ashu;
-        for(auto i : words)
+        vector<vector<int>> vec;
+        for(auto i:words)
+            vec.push_back(f(i + "#" + target));
+        int len=target.size(), ans=0;
+        while(len>0)
         {
-            ashu.push_back(find(i + "#" + target));
+            int temp=0;
+            for(int i=0;i<words.size();i++)
+                temp=max(temp, vec[i][words[i].size()+len]);
+            if(temp==0)
+                return -1;
+            ans++;
+            len-=temp;
         }
-        int len = target.size();
-        int match =0 ;
-        while(len > 0)
-        {
-            int ans = 0 ;
-            for(int i = 0 ; i < n ; i++)
-            {
-                ans = max(ans , ashu[i][words[i].size() + len]);
-            }
-            if(ans == 0)return -1;
-            match++;
-            len -= ans ;
-        }
-        return match;
+        return ans;
     }
 };
