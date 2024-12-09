@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/raghav161/Leetcode/tree/master/3451-string-compression-iii) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/raghav161/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/raghav161/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
 |  |
 | ------- |
