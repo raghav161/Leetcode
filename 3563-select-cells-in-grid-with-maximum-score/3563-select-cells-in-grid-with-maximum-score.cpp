@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int f(vector<vector<int>>& values, int idx, int mask_row, map<string, int>& dp)
+    int f(vector<vector<int>>& values, int idx, int mask_row, unordered_map<string, int>& dp)
     {
         if(idx==values.size())
             return 0;
@@ -26,7 +26,7 @@ public:
                 values.push_back({grid[i][j], i, j});
         }
         sort(values.begin(), values.end());
-        map<string, int> dp;
+        unordered_map<string, int> dp;
         return f(values, 0, 0, dp);
     }
 };
