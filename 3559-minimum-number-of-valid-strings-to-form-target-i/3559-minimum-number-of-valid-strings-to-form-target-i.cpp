@@ -1,37 +1,53 @@
 class Solution {
 public:
+    vector<int>find(string ashu)
+    {
+        int n = ashu.size();
+        vector<int>lps(n , 0);
+        int j =0 ;
+        int i =1 ;
+        while(i < n )
+        {
+            if(ashu[i] == ashu[j])
+            {
+                j++;
+                lps[i] = j;
+                i++;
+            }
+            else
+            {
+                if(j!=0)
+                {
+                    j = lps[j-1];
+                }
+                else{
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+        return lps;
+    }
     int minValidStrings(vector<string>& words, string target) {
-        int n = target.size();
-        vector<int> dp(n + 1, INT_MAX);
-        dp[0] = 0;
-        struct TrieNode {
-            TrieNode* children[26];
-            TrieNode() { memset(children, 0, sizeof(children)); }
-        };
-        TrieNode* root = new TrieNode();
-        for(auto& word:words)
+        int n = words.size();
+        vector<vector<int>>ashu;
+        for(auto i : words)
         {
-            TrieNode* node=root;
-            for(auto c:word)
-            {
-                if(!node->children[c-'a'])
-                    node->children[c-'a'] = new TrieNode();
-                node = node->children[c-'a'];
-            }
+            ashu.push_back(find(i + "#" + target));
         }
-        for(int i=0;i<n;i++)
+        int len = target.size();
+        int match =0 ;
+        while(len > 0)
         {
-            if(dp[i]==INT_MAX)
-                continue;
-            TrieNode* node = root;
-            for(int j=i;j<n;j++)
+            int ans = 0 ;
+            for(int i = 0 ; i < n ; i++)
             {
-                if(!node->children[target[j]-'a'])
-                    break;
-                node = node->children[target[j]-'a'];
-                dp[j+1] = min(dp[j+1], dp[i]+1);
+                ans = max(ans , ashu[i][words[i].size() + len]);
             }
+            if(ans == 0)return -1;
+            match++;
+            len -= ans ;
         }
-        return dp[n] == INT_MAX ? -1 : dp[n];
+        return match;
     }
 };
