@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/raghav161/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3460-count-the-number-of-inversions](https://github.com/raghav161/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghav161/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Math
 |  |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3470-maximum-score-from-grid-operations](https://github.com/raghav161/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Monotonic Stack
 |  |
