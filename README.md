@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/raghav161/Leetcode/tree/master/3394-minimum-array-end) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/raghav161/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2291-maximum-and-sum-of-array](https://github.com/raghav161/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raghav161/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Tree
 |  |
 | ------- |
