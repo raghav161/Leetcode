@@ -22,10 +22,7 @@ public:
         for(auto it:mp)
         {
             if(it.second>=3)
-            {
-                int val = it.first.size();
-                ans = max(val, ans);
-            }
+                ans = max((int)it.first.size(), ans);
         }
         return ans == INT_MIN ? -1 : ans;
     }
