@@ -4,9 +4,11 @@ public:
         int rear = 0;
         long long ans = 0;
         multiset<int> st;
-        for (int front = 0; front < nums.size(); front++) {
+        for(int front=0;front<nums.size();front++)
+        {
             st.insert(nums[front]);
-            while (*st.rbegin() - *st.begin() > 2) {
+            while(*st.rbegin() - *st.begin() > 2)
+            {
                 st.erase(st.find(nums[rear]));
                 rear++;
             }
