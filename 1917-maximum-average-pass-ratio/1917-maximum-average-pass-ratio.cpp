@@ -1,7 +1,7 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto cmp = [](pair<int,int> a, pair<int, int> b){
+        auto cmp = [](pair<int, int> a, pair<int, int> b){
             double ad = (a.first+1)/(double)(a.second+1) - (a.first)/(double)a.second;
             double bd = (b.first+1)/(double)(b.second+1) - (b.first)/(double)b.second;
             return ad < bd;
