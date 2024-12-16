@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/raghav161/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3386-find-edges-in-shortest-paths](https://github.com/raghav161/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/raghav161/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/raghav161/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/raghav161/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raghav161/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/raghav161/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
