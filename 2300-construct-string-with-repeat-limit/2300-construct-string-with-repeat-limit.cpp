@@ -1,28 +1,32 @@
 class Solution {
 public:
     string repeatLimitedString(string s, int repeatLimit) {
-        map<char, int> mp;
-        for(auto& ch : s)
-            mp[ch]++;
+        vector<int> mp(26);
+        for(auto& ch:s)
+            mp[ch-'a']++;
         string ans;
-        while (!mp.empty()) {
-            auto it = prev(mp.end());
-            char ch = it->first;
-            int freq = min(it->second, repeatLimit);
-            ans.append(freq, ch);
-            mp[ch] -= freq;
-            if (mp[ch] > 0) {
-                auto nextIt = prev(it);
-                if (it == mp.begin() || nextIt == mp.end())
-                    break;
-                char nextCh = nextIt->first;
-                ans.push_back(nextCh);
-                mp[nextCh]--;
-                if (mp[nextCh] == 0)
-                    mp.erase(nextCh);
+        int i=25;
+        while(i>=0)
+        { 
+            if(mp[i]==0)
+            {
+                i--;
+                continue;
             }
-            if (mp[ch] == 0)
-                mp.erase(ch);
+            char ch='a'+i;
+            int freq=min(mp[i], repeatLimit);
+            ans.append(freq, ch);
+            mp[i]-=freq;
+            if(mp[i]>0)
+            {
+                int j=i-1;
+                while(j>=0 and mp[j]==0)
+                    j--;
+                if(j<0)
+                    break;
+                ans.push_back('a'+j);
+                mp[j]--;
+            }
         }
         return ans;
     }
