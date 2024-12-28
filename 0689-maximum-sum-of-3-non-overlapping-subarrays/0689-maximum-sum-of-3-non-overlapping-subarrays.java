@@ -32,8 +32,14 @@ class Solution {
     }
 
     private boolean lexicographicallySmaller(List<Integer> a, List<Integer> b) {
+        // Check if either list is invalid
         if (a.contains(Integer.MAX_VALUE)) return false; // Skip invalid lists
         if (b.contains(Integer.MAX_VALUE)) return true;  // Prefer valid lists
+        
+        // Compare based on size first
+        if (a.size() != b.size()) return a.size() < b.size();
+        
+        // Lexicographical comparison
         for (int i = 0; i < a.size(); i++) {
             if (a.get(i) < b.get(i)) {
                 return true;
@@ -42,7 +48,7 @@ class Solution {
                 return false;
             }
         }
-        return false;
+        return false; // Both lists are equal
     }
 
     public int[] maxSumOfThreeSubarrays(int[] nums, int k) {
