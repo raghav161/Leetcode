@@ -17,7 +17,11 @@ class Solution {
             return new ArrayList<>(indexList);
         }
         if (c == 3 || memo[i][c] != maxSum) {
-            return List.of(Integer.MAX_VALUE, Integer.MAX_VALUE, Integer.MAX_VALUE);
+            List<Integer> invalidList = new ArrayList<>();
+            for (int j = 0; j < 3; j++) {
+                invalidList.add(Integer.MAX_VALUE);
+            }
+            return invalidList;
         }
         int sum = pre[i + k - 1] - (i > 0 ? pre[i - 1] : 0);
         indexList.add(i);
@@ -28,6 +32,8 @@ class Solution {
     }
 
     private boolean lexicographicallySmaller(List<Integer> a, List<Integer> b) {
+        if (a.contains(Integer.MAX_VALUE)) return false; // Skip invalid lists
+        if (b.contains(Integer.MAX_VALUE)) return true;  // Prefer valid lists
         for (int i = 0; i < a.size(); i++) {
             if (a.get(i) < b.get(i)) {
                 return true;
@@ -41,15 +47,14 @@ class Solution {
 
     public int[] maxSumOfThreeSubarrays(int[] nums, int k) {
         int n = nums.length;
-        int[] pre = new int[n + 1];
-        int[][] memo = new int[n + 1][3];
+        int[] pre = new int[n];
+        int[][] memo = new int[n][3];
         pre[0] = nums[0];
         for (int i = 1; i < n; i++) {
             pre[i] = pre[i - 1] + nums[i];
         }
         int maxSum = getMaxSum(pre, 0, n, k, memo, 0);
         List<Integer> result = getIndexList(pre, 0, n, k, new ArrayList<>(), memo, 0, maxSum);
-        Collections.sort(result);
         return result.stream().mapToInt(x -> x).toArray();
     }
 }
