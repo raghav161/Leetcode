@@ -37,7 +37,7 @@ class Solution {
         if (b.contains(Integer.MAX_VALUE)) return true;  // Prefer valid lists
         
         // Compare based on size first
-        if (a.size() != b.size()) return a.size() < b.size();
+        if (a.size() != b.size()) return a.size() > b.size();
         
         // Lexicographical comparison
         for (int i = 0; i < a.size(); i++) {
