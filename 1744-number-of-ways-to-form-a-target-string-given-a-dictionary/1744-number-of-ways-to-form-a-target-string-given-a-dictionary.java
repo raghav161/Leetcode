@@ -17,9 +17,7 @@ class Solution {
 
         char tchar = target.charAt(tlen);
 
-        if (freq[i][tchar - 'a'] > 0) {
-            take = (int) ((long) freq[i][tchar - 'a'] * recursion(freq, target, memo, i + 1, tlen + 1) % MOD);
-        }
+        take = (int) ((long) freq[i][tchar - 'a'] * recursion(freq, target, memo, i + 1, tlen + 1) % MOD);
 
         notTake = recursion(freq, target, memo, i + 1, tlen) % MOD;
 
