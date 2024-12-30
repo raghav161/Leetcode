@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/raghav161/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/raghav161/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/raghav161/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/raghav161/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/raghav161/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/raghav161/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/raghav161/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/raghav161/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/raghav161/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/raghav161/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/raghav161/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/raghav161/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghav161/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/raghav161/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/raghav161/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/raghav161/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1091,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/raghav161/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/raghav161/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/raghav161/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
