@@ -1,28 +1,30 @@
 class Solution {
 public:
+    vector<int> dir={1, 0, -1, 0, 1};
     int minimumTime(vector<vector<int>>& grid) {
-        if (grid[0][1] > 1 && grid[1][0] > 1) 
+        if (grid[0][1] > 1 && grid[1][0] > 1)
             return -1;
-        int rows=grid.size(), cols=grid[0].size(), maxPos=rows*cols;
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
-        minHeap.push({0, 0});
-        vector<bool> seen(maxPos); 
-        seen[0]=true;
-        int moves[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        while(!minHeap.empty()) {
-            auto [currTime, pos] = minHeap.top();
-            int currRow = pos/cols, currCol = pos % cols;
-            minHeap.pop();
-            if(currRow==rows-1 and currCol==cols-1) 
-                return currTime;
-            for(auto& move:moves) {
-                int nextRow = move[0]+currRow, nextCol = move[1]+currCol, nextPos = nextRow*cols + nextCol; 
-                if(nextRow >= 0 and nextCol >= 0 and nextRow < rows and nextCol < cols and !seen[nextPos]) {
-                    int waitTime = ((grid[nextRow][nextCol]-currTime)%2==0);
-                    int nextTime = max(currTime + 1, grid[nextRow][nextCol] + waitTime);
-                    minHeap.push({nextTime, nextPos});
-                    seen[nextPos] = true;
-                }
+        vector<vector<bool>> visited(grid.size(), vector<bool>(grid[0].size(), false));
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
+        pq.push({grid[0][0], {0, 0}});
+        while (!pq.empty()) {
+            int time = pq.top().first, row  = pq.top().second.first, col  = pq.top().second.second;
+            pq.pop();
+            if (row == grid.size() - 1 && col == grid[0].size() - 1)
+                return time;
+            if (visited[row][col]) 
+                continue;
+            visited[row][col] = 1;
+            for(int i=0;i<4;i++)
+            {
+                int r = row + dir[i];
+                int c = col + dir[i+1];
+                if (r < 0 || r >= grid.size() || c < 0 || c >= grid[0].size() || visited[r][c])
+                    continue;
+                if (grid[r][c] <= time+1)
+                    pq.push({time+1, {r, c}});
+                else
+                    pq.push({grid[r][c]+((grid[r][c]-time)%2==0), {r, c}});
             }
         }
         return -1;
