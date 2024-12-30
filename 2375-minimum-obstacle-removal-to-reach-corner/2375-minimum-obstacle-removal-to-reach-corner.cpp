@@ -1,37 +1,32 @@
-int dx[] = {1,-1,0,0};
-int dy[] = {0,0,1,-1};
 class Solution {
 public:
+    #define P pair<int, pair<int, int>>
+    vector<vector<int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     int minimumObstacles(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> dp(m, vector<int>(n,INT_MAX));
-        vector<vector<bool>> vis(m, vector<bool>(n,0));
-        deque<pair<int,int>> q;
-        q.push_front({0,0});
-        dp[0][0] = 0;
-        while(q.size()) {
-            pair<int,int> p = q.front();
-            q.pop_front();
-            int cx = p.first;
-            int cy = p.second;
-            for(int i=0;i<4;i++) {
-                int tx = cx + dx[i];
-                int ty = cy + dy[i];
-                if(tx >=0 && tx < m && ty >=0 && ty < n) {                    
-                    if(!vis[tx][ty]) {
-                        dp[tx][ty] = dp[cx][cy] + (grid[tx][ty] == 1);
-                        if(grid[tx][ty] == 1) {
-                            q.push_back({tx,ty});
-                        } else {
-                            q.push_front({tx,ty});
-                        }
-                        vis[tx][ty] = true;
-                    }
+        vector<vector<int>> result(m, vector<int>(n, INT_MAX));
+        result[0][0] = 0;
+        priority_queue<P, vector<P>, greater<P>> pq;
+        pq.push({0, {0, 0}});
+        while(!pq.empty()) {
+            auto curr = pq.top();
+            pq.pop();
+            int d = curr.first;
+            int i = curr.second.first;
+            int j = curr.second.second;
+            for(auto &dir : directions) {
+                int x = i + dir[0];
+                int y = j + dir[1];
+                if(x < 0 || x >= m || y < 0 || y >= n)
+                    continue;
+                int wt = (grid[x][y] == 1);
+                if(d + wt < result[x][y]) {
+                    result[x][y] = d + wt;
+                    pq.push({d+wt, {x, y}});
                 }
             }
         }
-
-        return dp[m-1][n-1];
+        return result[m-1][n-1];
     }
 };
