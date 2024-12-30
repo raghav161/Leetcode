@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/raghav161/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/raghav161/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/raghav161/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/raghav161/Leetcode/tree/master/1184-car-pooling) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/raghav161/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/raghav161/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0993-tallest-billboard](https://github.com/raghav161/Leetcode/tree/master/0993-tallest-billboard) |
+| [1063-best-sightseeing-pair](https://github.com/raghav161/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/raghav161/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raghav161/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
