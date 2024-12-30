@@ -1,7 +1,7 @@
 class Solution {
 public:
-    map<int, vector<int> > adj;
-    vector<vector<int> > ans;
+    map<int, vector<int>> adj;
+    vector<vector<int>> ans;
     void dfs(int node) {
         while(adj[node].size()) {
             int next = adj[node].back();
@@ -17,13 +17,11 @@ public:
             ++indegree[p[0]];
             --indegree[p[1]];
         }
-        int start = -1;
+        int start = pairs[0][0];
         for(auto &it: indegree) {
-            if(it.second >0) 
+            if(it.second>0) 
                 start = it.first;
         }
-        if(start == -1)
-            start = pairs[0][0];
         dfs(start);
         reverse(ans.begin(), ans.end());
         return ans;
