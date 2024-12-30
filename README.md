@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/raghav161/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/raghav161/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/raghav161/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2703-handling-sum-queries-after-update](https://github.com/raghav161/Leetcode/tree/master/2703-handling-sum-queries-after-update) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/raghav161/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+| [2703-handling-sum-queries-after-update](https://github.com/raghav161/Leetcode/tree/master/2703-handling-sum-queries-after-update) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/raghav161/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
