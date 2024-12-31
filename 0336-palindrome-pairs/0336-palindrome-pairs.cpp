@@ -16,7 +16,7 @@ public:
             mp[string(words[i].rbegin(), words[i].rend())] = i;
         vector<vector<int>> res;
         for (int i = 0; i < n; i++) {
-            string& word = words[i];
+            string word = words[i];
             int len = word.size();
             for (int j = 0; j <= len; j++) {
                 if (isPalindrome(word, 0, j - 1)) {
