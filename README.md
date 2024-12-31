@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raghav161/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/raghav161/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/raghav161/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghav161/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/raghav161/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/raghav161/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/raghav161/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1152,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1511-count-number-of-teams](https://github.com/raghav161/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/raghav161/Leetcode/tree/master/3435-block-placement-queries) |
@@ -1284,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/raghav161/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/raghav161/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2703-handling-sum-queries-after-update](https://github.com/raghav161/Leetcode/tree/master/2703-handling-sum-queries-after-update) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1306,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/raghav161/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
