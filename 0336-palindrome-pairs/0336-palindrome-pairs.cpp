@@ -1,3 +1,5 @@
+class Solution {
+public:
     bool isPalindrome(string& word, int l, int r) {
         while (l < r) {
             if (word[l] != word[r]) 
@@ -6,8 +8,6 @@
         }
         return true;
     }
-class Solution {
-public:
 
     vector<vector<int>> palindromePairs(vector<string>& words) {
         int n = words.size();
