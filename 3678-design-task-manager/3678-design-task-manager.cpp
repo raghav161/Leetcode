@@ -16,8 +16,7 @@ public:
         auto previous = mp[taskId];
         mp.erase(taskId);
         st.erase(previous);
-        mp[taskId] = {newPriority, taskId, previous[2]};
-        st.insert({newPriority, taskId, previous[2]});
+        add(previous[2], taskId, newPriority);
     }
 
     void rmv(int taskId) {
