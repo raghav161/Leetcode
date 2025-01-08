@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/raghav161/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/raghav161/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/raghav161/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/raghav161/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/raghav161/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/raghav161/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/raghav161/Leetcode/tree/master/3451-string-compression-iii) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/raghav161/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/raghav161/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/raghav161/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
@@ -1284,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/raghav161/Leetcode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/raghav161/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/raghav161/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Trie
@@ -1301,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-encrypt-and-decrypt-strings](https://github.com/raghav161/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/raghav161/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/raghav161/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/raghav161/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Segment Tree
