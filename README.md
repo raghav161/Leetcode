@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/raghav161/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/raghav161/Leetcode/tree/master/3571-length-of-the-longest-increasing-path) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/raghav161/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/raghav161/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/raghav161/Leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/raghav161/Leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/raghav161/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/raghav161/Leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/raghav161/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/raghav161/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/raghav161/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/raghav161/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/raghav161/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/raghav161/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Bitmask
 |  |
 | ------- |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raghav161/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghav161/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/raghav161/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Combinatorics
 |  |
 | ------- |
