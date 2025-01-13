@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long f(int i, int j, vector<vector<int>>& coins, vector<vector<vector<long long>>>& dp, int nutralize)
+    int f(int i, int j, vector<vector<int>>& coins, vector<vector<vector<int>>>& dp, int nutralize)
     {
         if(i==0 and j==0)
         {
@@ -20,7 +20,7 @@ public:
     }
 
     int maximumAmount(vector<vector<int>>& coins) {
-        vector<vector<vector<long long>>> dp(coins.size(), vector<vector<long long>>(coins[0].size(), vector<long long>(3, INT_MIN)));
+        vector<vector<vector<int>>> dp(coins.size(), vector<vector<int>>(coins[0].size(), vector<int>(3, INT_MIN)));
         return f(coins.size()-1, coins[0].size()-1, coins, dp, 2);
     }
 };
