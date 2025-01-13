@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/raghav161/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raghav161/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3634-find-mirror-score-of-a-string](https://github.com/raghav161/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/raghav161/Leetcode/tree/master/3678-design-task-manager) |
 ## Two Pointers
 |  |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/raghav161/Leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/raghav161/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/raghav161/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
+| [3634-find-mirror-score-of-a-string](https://github.com/raghav161/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3516-design-neighbor-sum-service](https://github.com/raghav161/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/raghav161/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/raghav161/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -896,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3634-find-mirror-score-of-a-string](https://github.com/raghav161/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Matrix
 |  |
 | ------- |
