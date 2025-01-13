@@ -1,54 +1,26 @@
 class Solution {
-    long long f(int i, int j, int k, vector<vector<int>>& coins, vector<vector<vector<long long>>>& dp) {
-         if (i == 0 && j == 0) {
-            if (coins[i][j] >= 0) return coins[i][j]; // Gain the coins
-            return (k > 0 ? 0 : coins[i][j]); // Neutralize if k > 0
+public:
+    long long f(int i, int j, vector<vector<int>>& coins, vector<vector<vector<long long>>>& dp, int nutralize)
+    {
+        if(i==0 and j==0)
+        {
+            if(coins[i][j]>=0) 
+                return coins[i][j];
+            return (nutralize>0 ? 0 : coins[i][j]);
         }
-        if (i < 0 || j < 0) return INT_MIN;
-
-        // Check if the result is already computed
-        if (dp[i][j][k] != INT_MIN) return dp[i][j][k];
-
-        long long up = 0, left = 0;
-
-        if (coins[i][j] >= 0) {
-            // If the cell has positive coins
-            up = coins[i][j] + f(i - 1, j, k, coins, dp);
-            left = coins[i][j] + f(i, j - 1, k, coins, dp);
-        } else {
-            // If the cell has a robber (negative coins)
-            if (k > 0) {
-                // Neutralize the robber
-                up = f(i - 1, j, k - 1, coins, dp);
-                left = f(i, j - 1, k - 1, coins, dp);
-
-                // dontup = coins[i][j] +  f(i - 1, j, k, coins, dp);
-                // dontleft = coins[i][j] + f(i, j - 1, k, coins, dp);
-
-                up =  max(up,coins[i][j] +  f(i - 1, j, k, coins, dp));
-                left = max(left,coins[i][j] + f(i, j - 1, k, coins, dp));
-            }
-            else{
-            // Do not neutralize the robber
-            up =    coins[i][j] +  f(i - 1, j, k, coins, dp);
-            left =  coins[i][j] + f(i, j - 1, k, coins, dp);
-            }
-        }
-
-        // Store the result in dp and return
-        return dp[i][j][k] = max(up, left);
+        if(i<0 or j<0)
+            return INT_MIN;
+        if(dp[i][j][nutralize]!=INT_MIN)
+            return dp[i][j][nutralize];
+        int take = coins[i][j] + max(f(i-1, j, coins, dp, nutralize), f(i, j-1, coins, dp, nutralize));
+        int nottake = INT_MIN;
+        if(nutralize>0 and coins[i][j]<0)
+            nottake = max(f(i-1, j, coins, dp, nutralize-1), f(i, j-1, coins, dp, nutralize-1));
+        return dp[i][j][nutralize] = max(take, nottake);
     }
 
-public:
     int maximumAmount(vector<vector<int>>& coins) {
-        int n = coins.size();    // Number of rows
-        int m = coins[0].size(); // Number of columns
-        int k = 2;               // Number of neutralizations available
-
-        // 3D DP table: dp[i][j][k] -> max coins at (i, j) with k neutralizations remaining
-        vector<vector<vector<long long>>> dp(n, vector<vector<long long>>(m, vector<long long>(k + 1, INT_MIN)));
-
-        // Start from the bottom-right corner
-        return f(n - 1, m - 1, k, coins, dp);
+        vector<vector<vector<long long>>> dp(coins.size(), vector<vector<long long>>(coins[0].size(), vector<long long>(3, INT_MIN)));
+        return f(coins.size()-1, coins[0].size()-1, coins, dp, 2);
     }
 };
