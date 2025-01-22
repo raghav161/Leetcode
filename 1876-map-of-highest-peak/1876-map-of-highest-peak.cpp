@@ -18,7 +18,7 @@ public:
             auto p=q.front();
             q.pop();
             ans[p[1]][p[2]]=p[0];
-            for(int k=1;k<5;k++)
+            for(int k=1;k<=4;k++)
             {
                 int i=p[1]+dirs[k-1], j=p[2]+dirs[k];
                 if(i>=0 and j>=0 and i<m and j<n and isWater[i][j]==0)
