@@ -24,8 +24,8 @@ public:
                 down++;
         }
         vector<string> v = {"NWSE", "SENW", "NESW", "SWNE"};
-        for (int i = 1; i <= 4; i++)
-            maxi = max(maxi, f(v[i - 1], s, k));
+        for (int i = 0; i < 4; i++)
+            maxi = max(maxi, f(v[i], s, k));
         return maxi;
     }
 };
