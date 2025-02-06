@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/raghav161/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raghav161/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/raghav161/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/raghav161/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raghav161/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/raghav161/Leetcode/tree/master/1249-snapshot-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raghav161/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1364-tuple-with-same-product](https://github.com/raghav161/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/raghav161/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1447-jump-game-iv](https://github.com/raghav161/Leetcode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raghav161/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/raghav161/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/raghav161/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/raghav161/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/raghav161/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
