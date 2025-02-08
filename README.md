@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/raghav161/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/raghav161/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/raghav161/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/raghav161/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/raghav161/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/raghav161/Leetcode/tree/master/2502-sort-the-people) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/raghav161/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/raghav161/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/raghav161/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghav161/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-design-an-atm-machine](https://github.com/raghav161/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/raghav161/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/raghav161/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/raghav161/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -1394,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/raghav161/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2357-count-integers-in-intervals](https://github.com/raghav161/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/raghav161/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/raghav161/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/raghav161/Leetcode/tree/master/2868-continuous-subarrays) |
