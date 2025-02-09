@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/raghav161/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/raghav161/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghav161/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raghav161/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/raghav161/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghav161/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/raghav161/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/raghav161/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/raghav161/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raghav161/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/raghav161/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/raghav161/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/raghav161/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/raghav161/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raghav161/Leetcode/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raghav161/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/raghav161/Leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/raghav161/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/raghav161/Leetcode/tree/master/0264-ugly-number-ii) |
