@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/raghav161/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/raghav161/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/raghav161/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/raghav161/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/raghav161/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/raghav161/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raghav161/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/raghav161/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/raghav161/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/raghav161/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghav161/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/raghav161/Leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/raghav161/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/raghav161/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/raghav161/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/raghav161/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/raghav161/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1104,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/raghav161/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/raghav161/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/raghav161/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/raghav161/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/raghav161/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/raghav161/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -1137,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/raghav161/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/raghav161/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/raghav161/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/raghav161/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/raghav161/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
@@ -1193,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/raghav161/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/raghav161/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/raghav161/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/raghav161/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
