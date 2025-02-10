@@ -26,9 +26,9 @@ public:
         for (auto q : queries) {
             int mn = -1, mx = -1;
             if (nums[0] <= q)
-                mn = (lower_bound(nums.begin(), nums.end(), q))-nums.begin();
+                mn = lower_bound(nums.begin(), nums.end(), q)-nums.begin();
             if (q <= nums.back())
-                mx = (upper_bound(nums.begin(), nums.end(), q))-nums.begin();
+                mx = upper_bound(nums.begin(), nums.end(), q)-nums.begin();
             if (mn > 0 && mn >= nums.size())
                 mn--;
             if (mn >= 0 && nums[mn] > q)
