@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/raghav161/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/raghav161/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1080-camelcase-matching](https://github.com/raghav161/Leetcode/tree/master/1080-camelcase-matching) |
+| [1140-distant-barcodes](https://github.com/raghav161/Leetcode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/raghav161/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/raghav161/Leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/raghav161/Leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/raghav161/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/raghav161/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1140-distant-barcodes](https://github.com/raghav161/Leetcode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/raghav161/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/raghav161/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raghav161/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/raghav161/Leetcode/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/raghav161/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1140-distant-barcodes](https://github.com/raghav161/Leetcode/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/raghav161/Leetcode/tree/master/1184-car-pooling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/raghav161/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raghav161/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/raghav161/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1140-distant-barcodes](https://github.com/raghav161/Leetcode/tree/master/1140-distant-barcodes) |
 | [1364-tuple-with-same-product](https://github.com/raghav161/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/raghav161/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/raghav161/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/raghav161/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/raghav161/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/raghav161/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1140-distant-barcodes](https://github.com/raghav161/Leetcode/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/raghav161/Leetcode/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/raghav161/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/raghav161/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -1219,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/raghav161/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/raghav161/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghav161/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1140-distant-barcodes](https://github.com/raghav161/Leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/raghav161/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/raghav161/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/raghav161/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
