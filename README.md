@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/raghav161/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/raghav161/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3107-maximum-spending-after-buying-items](https://github.com/raghav161/Leetcode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3114-beautiful-towers-i](https://github.com/raghav161/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raghav161/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/raghav161/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/raghav161/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/raghav161/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3114-beautiful-towers-i](https://github.com/raghav161/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3634-find-mirror-score-of-a-string](https://github.com/raghav161/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Matrix
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/raghav161/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/raghav161/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2549-next-greater-element-iv](https://github.com/raghav161/Leetcode/tree/master/2549-next-greater-element-iv) |
+| [3114-beautiful-towers-i](https://github.com/raghav161/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/raghav161/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Recursion
 |  |
