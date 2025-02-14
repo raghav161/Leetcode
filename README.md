@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/raghav161/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/raghav161/Leetcode/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raghav161/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/raghav161/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raghav161/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/raghav161/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raghav161/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/raghav161/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/raghav161/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1435-xor-queries-of-a-subarray](https://github.com/raghav161/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/raghav161/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raghav161/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/raghav161/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raghav161/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/raghav161/Leetcode/tree/master/0670-maximum-swap) |
 | [0935-orderly-queue](https://github.com/raghav161/Leetcode/tree/master/0935-orderly-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/raghav161/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/raghav161/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/raghav161/Leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/raghav161/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/raghav161/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1189,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/raghav161/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/raghav161/Leetcode/tree/master/1249-snapshot-array) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/raghav161/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/raghav161/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/raghav161/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/raghav161/Leetcode/tree/master/1512-design-underground-system) |
 | [1572-subrectangle-queries](https://github.com/raghav161/Leetcode/tree/master/1572-subrectangle-queries) |
@@ -1485,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/raghav161/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/raghav161/Leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/raghav161/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1775-design-an-ordered-stream](https://github.com/raghav161/Leetcode/tree/master/1775-design-an-ordered-stream) |
