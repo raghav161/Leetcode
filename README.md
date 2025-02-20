@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/raghav161/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/raghav161/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/raghav161/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/raghav161/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/raghav161/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/raghav161/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/raghav161/Leetcode/tree/master/2155-find-missing-observations) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/raghav161/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/raghav161/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raghav161/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/raghav161/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2161-stock-price-fluctuation](https://github.com/raghav161/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/raghav161/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/raghav161/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raghav161/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/raghav161/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raghav161/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/raghav161/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/raghav161/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/raghav161/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/raghav161/Leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -1075,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/raghav161/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/raghav161/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/raghav161/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/raghav161/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghav161/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
